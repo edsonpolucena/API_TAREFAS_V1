@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password:'Crono1900',
+    password:'sua_senha_aqui',
     database: 'notasdb',
 });
 
